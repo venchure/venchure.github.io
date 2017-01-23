@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|PT+Sans|Quicksand');
+
+
+
+body {
+	color: #FDFEFF;
+	background-color: #B2935D;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Pt Sans', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+div{
+	background-color: #FFE2B8;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+
+h1, p {
+
+}
+
+ul{
+	font-weight: bold;
+	list-style-type: none;
+
+}
+
+li{
+	color: #FF8322;
+
+}
+
+img{
+
+}
+
+footer {
+	background-color: #FF975E;
+}
+
+#slogan {
+	font-style: italic;
+	font-family: Helvitica, sans-serif;
+}
