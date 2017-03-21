@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|PT+Sans|Quicksand');
+
+body {
+	color: #B21203;
+	background-color: #FEFDFF;
+	/*background-image: url("popcorn.jpg");*/
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Pt Sans', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+h1, p {
+
+}
+
+ul{
+	font-weight: bold;
+	list-style-type: none;
+
+}
+
+li{
+	color: #FF8322;
+
+}
+
+img{
+
+}
+
+#slogan {
+	font-style: italic;
+	font-family: Helvitica, sans-serif;
+}
