@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|PT+Sans|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Open+Sans');
 
 body {
 	color: #B21203;
 	background-color: #FEFDFF;
 	/*background-image: url("popcorn.jpg");*/
 	text-align: center;
-	font-family: 'Oswald', sans-serif;
-	font-family: 'Pt Sans', sans-serif;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Droid Sans', sans-serif;
 
 }
 
